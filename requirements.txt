@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 
+=======
+gradio==4.36.1
+openai-whisper==20231117
+numpy
+>>>>>>> b6d4628 (Initial commit for deployment)

@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> b6d4628 (Initial commit for deployment)
 import whisper
 import gradio as gr
 import datetime
